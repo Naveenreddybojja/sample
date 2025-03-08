@@ -1,3 +1,5 @@
 sample data enetered
 
 new data enteded from another repo
+
+new lone added from intellij
